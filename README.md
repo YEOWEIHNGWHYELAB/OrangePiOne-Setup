@@ -1,5 +1,7 @@
 # OrangePiOne-Setup
 
+![OrangePiOne](/Image/OrangePi-Setup)
+
 Archive of my setup for my OrangePi One.
 
 # OS Image
